@@ -1,13 +1,12 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #ffe7c7, #ffdfdf, #e6f0ff, #fff0e6);
+  background: url('backdrop\ tv.jpeg') no-repeat center center fixed;
   background-size: cover;
 }
 
 header {
   background-color: #1e334e;
-  background-color: ;
   padding: 15px 30px;
   color: white;
   display: flex;
